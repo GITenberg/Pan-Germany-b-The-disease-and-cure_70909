@@ -1,0 +1,30 @@
+_repo: Pan-Germany-b-The-disease-and-cure_70909
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chéradame, André
+    alias: Cheradame, Andre
+    birthdate: 1871
+    deathdate: 1948
+    gutenberg_agent_id: '50360'
+    url: http://www.gutenberg.org/2009/agents/50360
+    wikipedia: https://en.wikipedia.org/wiki/Andr%C3%A9_Ch%C3%A9radame
+description: ''
+gutenberg_issued: '2023-06-04'
+identifiers:
+  gutenberg: '70909'
+language: en
+pgterms:marc905: 20220602145723chradame
+pgterms:marc906: '1917'
+pgterms:marc907: US
+production_note: Bob Taylor, hekula03 and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bThe Atlantic Monthly Press, $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Pan-Germany : $b The disease and cure'
+url: http://www.gutenberg.org/ebooks/70909
